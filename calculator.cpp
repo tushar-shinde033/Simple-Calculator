@@ -45,5 +45,6 @@ int main()
         return 1;
     }
     cout << "Result:" << result << endl;
+    cout << "---------------------------";
     return 0;
 }
